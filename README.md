@@ -1,8 +1,9 @@
 # 📦 Multimodal Price Prediction with Pretrained Embeddings
 
-This project explores how multimodal machine learning can be used to predict product prices from Amazon-style catalog data. Instead of relying on a single input source, the model learns from product text descriptions, images, and structured features, reflecting how pricing decisions work in real-world e-commerce systems.
+This is my solution to a kaggle project to predict Amazon item prices based on images and catalogue content. I explore how multimodal machine learning can be used to improve predictive power. Instead of relying on a single input source, the model learns from product text descriptions, images, and structured features, reflecting how pricing decisions work in real-world e-commerce systems.
 
 The focus is on practical multimodal modelling using pretrained embeddings rather than training large models from scratch.
+All relevant CSV files and challenge details can be found at: https://www.kaggle.com/datasets/raghavdharwal/amazon-ml-challenge-2025/data
 
 ## 🧠 Approach
 
@@ -53,3 +54,4 @@ Text and image models perform similarly, suggesting overlapping price signals
 Multimodal fusion provides consistent (though modest) improvements
 
 Errors increase substantially for high-priced and bulk items
+
