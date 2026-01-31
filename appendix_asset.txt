@@ -1,0 +1,143 @@
+TRUE PRICE: 613.58
+PRED PRICE: 58.07609939575195
+ABS ERROR: 555.5039006042481
+
+CATALOG CONTENT:
+
+Item Name: Beverage/Topping Heated Condiment Dispenser from Benchmark #21011
+Bullet Point 1: 5 Quart Capacity
+Bullet Point 2: Clear Polycarbonate Bowl
+Bullet Point 3: 1100 Watts
+Bullet Point 4: Adjustable Thermostat
+Bullet Point 5: Rotating Paddles
+Product Description: Heated Beverage / Topping Condiment Dispenser from Benchmark #21011, great for beverages, toppings and sauces like hot chocolate, nacho cheese, drawn butter, au jus, broths, hot cider, teas, gravy, syrups, popcorn butter topping, cream sauces & more. This 5-quart capacity heated dispenser uses rotating paddles making it perfect for many beverages, toppings and sauces. It has an adjustable thermostat and 1100 watts of heating capacity. The easy-to-disassemble tap and the removable clear polycarbonate bowl are easily cleaned in a sink or dishwasher. The bowl can also be removed for refrigerated storage of unused product thereby eliminating product waste. The drip tray is removable for easy cleaning. Benchmark USA’s exclusive 3-year warranty ensures durability and reliability.
+Value: 1.0
+Unit: Count
+
+TRUE PRICE: 404.47
+PRED PRICE: 31.823341369628906
+ABS ERROR: 372.6466586303711
+
+CATALOG CONTENT:
+
+Item Name: NESCAFE Espresso Whole Bean Coffee, 100% Arabica, Medium Roast Coffee, 2.2 Lb Bag, Box of 6 Bags
+Bullet Point 1: NESCAFE Whole Bean Espresso is a medium roast, 100% Arabica coffee bean, with low acidity and fruity notes, which is gluten free by nature. These whole roasted coffee beans are sourced from the southern region of Minas Gerais in Brazil. NESCAFE Whole Bean Espresso is available for use in any bean to cup beverage machine including the NESCAFE Krea Necta bean to cup equipment. Make a variety of specialty hot beverages including café lattes and espressos. All NESCAFE coffee products are part
+Bullet Point 2: 100% Arabica, medium roast coffee
+Bullet Point 3: Low acidity and fruity notes
+Bullet Point 4: Sourced from sustainably grown coffee beans in Brazil
+Bullet Point 5: 2.2 lb bag; 6 bags per case
+Product Description: NESCAFE Whole Bean Espresso is a medium roast, 100% Arabica coffee bean, with low acidity and fruity notes, which is gluten free by nature. These whole roasted coffee beans are sourced from the southern region of Minas Gerais in Brazil. NESCAFE Whole Bean Espresso is available for use in any bean to cup beverage machine including the NESCAFE Krea Necta bean to cup equipment. Make a variety of specialty hot beverages including café lattes and espressos. All NESCAFE coffee products are part of the NESCAFE Plan, which focuses on farmers, their communities and the planet. 100% Arabica, medium roast coffee Low acidity and fruity notes Sourced from sustainably grown coffee beans in Brazil 2.2 lb bag; 6 bags per case For use in the NESCAFE Ultimate Barista 50 and NESCAFE Total Barista 30 Bean-to-Cup Coffee Brewers ***** PRODUCT EXPIRATION DATE is listed in French format from the manufacturer (Day/Month/Year)
+Value: 6.0
+Unit: Count
+
+TRUE PRICE: 439.98
+PRED PRICE: 74.91748809814453
+ABS ERROR: 365.0625119018555
+
+CATALOG CONTENT:
+
+Item Name: 300 Pieces Bulk Red Foil, individually Wrapped Milk Chocolate Roses - 14 Inch Long Stem, Red foil wrapped Candy flowers gifts for Mother's day, Valentine's day, Graduation
+Bullet Point 1: IRRESISTIBLE INDULGENCE: Delight in the rich taste of premium chocolate making each bite a luxurious experience, ideal for gifting on special occasions like valentines day chocolate
+Bullet Point 2: CHARMING CHOCOLATE ROSES: Capture hearts with our intricately crafted chocolate roses individually wrapped, a symbol of affection and a sweet gesture for your loved ones
+Bullet Point 3: MULTIPLE OCCASIONS: Versatile and elegant, these rose candy delights are perfect for various celebrations, from romantic evenings to graduation parties and prom nights
+Bullet Point 4: EFFORTLESS ELEGANCE: Impress without the stress with these chocolate roses bulk - a hassle-free yet sophisticated choice for memorable events like Mother's Day and Graduation
+Bullet Point 5: SWEET VARIETY: Experience the joy of gifting with a variety of 300 pieces, a perfect balance of quality and quantity, creating lasting memories with our valentines day chocolate bulk set
+Product Description: Indulge in the epitome of sweetness with our exclusive collection of valentine's chocolates. Our Bulk Red Foil-Wrapped Chocolate Roses, comprising 300 pieces, redefine the art of gifting on special occasions like valentine's day, mother's day, graduation, and prom. Each piece is a manifestation of love and affection, meticulously crafted and individually wrapped for freshness. The irresistible flavor burst from premium chocolate makes every bite a celebration, perfect for chocolate valentine. Whether you're planning a romantic evening, graduation bash, or prom night, these versatile delights add a touch of sweetness to every celebration. Effortless elegance meets thoughtful gestures with our bulk chocolate roses, offering a stress-free choice for creating lasting memories on valentine day. The memorable variety of 300 pieces ensures a perfect balance of quality and quantity, making them an ideal choice for valentines chocolates. This collection is not just about chocolates; it's a tasteful addition to your cherished moments, conveying love with every piece. Make your celebrations truly memorable with our sophisticated Chocolate Roses Bulk, a delightful symphony of quality and indulgence, perfect for rose chocolate
+Value: 300.0
+Unit: Count
+
+TRUE PRICE: 390.98
+PRED PRICE: 47.63624954223633
+ABS ERROR: 343.3437504577637
+
+CATALOG CONTENT:
+
+Item Name: Scabiosa Blackberry, 360 Stems
+Value: 1.0
+Unit: Count
+
+TRUE PRICE: 369.81
+PRED PRICE: 65.85888671875
+ABS ERROR: 303.95111328125
+
+CATALOG CONTENT:
+
+Item Name: Darling Down Wagyu Beef Bone in Rib Steak Tomahawk, 2 count per pack -- 2 per case.
+Bullet Point: Special Orders CANNOT be cancelled, returned or refunded.
+Product Description: Darling Down Wagyu Beef Bone in Rib Steak Tomahawk, 2 count per pack -- 2 per case. Beef Provides Nutrients Like Zinc, Iron, Protein And B Vitamins, And Half Of The Fat Found In Beef Is Monounsaturated, The Same Heart-healthy Fats Found In Olive Oil.
+Value: 2.0
+Unit: Count
+
+TRUE PRICE: 374.98
+PRED PRICE: 87.26737213134766
+ABS ERROR: 287.71262786865236
+
+CATALOG CONTENT:
+
+Item Name: Giffard Depuis 1885 Pineapple Alcohol-Free Liqueur 10 Pack - Made in France, 700ml Bottles, Perfect for Spritzers, Mixed Drinks
+Bullet Point 1: Pineapple: GIFFARD Pineapple Alcohol Free is made from a maceration of fresh pineapples reinforced by a candied pineapple infusion in white wine vinegar. Mixture of candied, buttered and caramelized fruit notes.
+Bullet Point 2: Giffard unveils a new line inspired by their liqueur expertise, employing the shrub technique to macerate fruits and plants in wine vinegar.
+Bullet Point 3: The result is a range of alcohol-free products with exceptional aromatic complexity and reduced sugar content, highlighting their intense flavors.
+Bullet Point 4: With a dedication to sourcing the finest ingredients, Giffard emphasizes quality in their Alcohol-Free range, offering a sensory experience characterized by complexity and mouthfeel.
+Bullet Point 5: Giffard's Alcohol-Free line presents an opportunity to recreate beloved cocktails like the Sex on the Beach and Mai Tai without the need for alcohol.
+Bullet Point 6: By offering non-alcoholic alternatives, Giffard enables cocktail enthusiasts to savor the same flavor depth and complexity in their favorite drinks, minus the alcohol content.
+Bullet Point 7: Includes (10) 700ml Bottles, Phone and tablet holder and tasting notes/recipes.
+Value: 24.0
+Unit: Fl Oz
+
+TRUE PRICE: 306.0
+PRED PRICE: 19.405826568603516
+ABS ERROR: 286.5941734313965
+
+CATALOG CONTENT:
+
+Item Name: Healing Noni - 12-Pack Glass Bottle 32oz - 100% Pure Hawaiian Organic Noni Juice - All-Natural - Farm Direct
+Bullet Point 1: Hawaiian Heritage in Every Bottle – Made from 100% pure organic noni fruit, cultivated on our family-owned Hawaiian farms. Our process follows traditional Hawaiian maturation techniques to deliver the authentic, natural essence of noni.
+Bullet Point 2: Naturally Matured & Unfiltered – Our noni juice undergoes a natural enzymatic maturation process that enhances its distinctive taste and character, just as nature intended. This ensures the juice remains pure, unfiltered, and unaltered, with zero additives, preservatives, or added sugars.
+Bullet Point 3: Nutrient-Dense Superfruit – Contains 160+ naturally occurring compounds, including phytonutrients, enzymes, vitamins, and minerals, making it a unique and valued part of traditional diets.
+Bullet Point 4: Versatile & Pure – Our noni juice is USDA Organic, Vegan, Kosher, and non-GMO, making it a clean and natural choice for any diet. Enjoy it straight or mix it with your favorite juice to complement its bold, tropical taste.
+Bullet Point 5: From Our Farm to Your Bottle – Every bottle of Healing Noni Juice is grown, matured, and bottled directly on our Big Island, Hawaii farm, ensuring the highest level of quality and integrity from seed to shelf.
+Bullet Point 6: Suggested Enjoyment – Drink 1-2 oz (2-4 tbsp) once or twice daily, either on its own or blended with your preferred beverage.
+Product Description: Savor the essence of Hawaii with Healing Noni Juice, made from 100% pure organic noni fruit, cultivated on our family-owned Hawaiian farms. Naturally matured using traditional Hawaiian methods, this distinctive juice delivers an authentic taste and character unique to noni. Certified USDA Organic, Vegan, and Kosher, our noni juice is crafted with zero additives, preservatives, or added sugars, ensuring the highest quality and purity. Whether enjoyed on its own or blended with your favorite juice, it brings a pure and time-honored addition to your daily routine.
+Value: 384.0
+Unit: Fl Oz
+
+TRUE PRICE: 303.56
+PRED PRICE: 55.106021881103516
+ABS ERROR: 248.4539781188965
+
+CATALOG CONTENT:
+
+Item Name: Food to Live Organic Super Sweet Corn, 10 Pounds - Freeze-Dried Kernels, Non-GMO, Kosher, Healthy Snack, Bulk, Grown in the USA
+Bullet Point 1: ✔️LOW-CALORIE WHOLE GRAIN: Enjoy Organic Corn from Food To Live in low-calorie dishes and diet cornbread.
+Bullet Point 2: ✔️GLUTEN-FREE GRAIN: Organic Corn doesn’t contain any gluten. Cornmeal can be used as a wheat flour substitute.
+Bullet Point 3: ✔️SOURCE OF MANY NUTRIENTS: Food To Live Organic Corn contains small amounts of many vitamins and minerals.
+Bullet Point 4: ✔️COMPLETELY NON-GMO: Our Certified Organic Corn is not genetically modified and doesn’t contain any toxins.
+Bullet Point 5: ✔️GREAT FOR DIGESTION: Organic Corn is rich in dietary fiber, which is essential for healthy digestion.
+Product Description: <p><b>Organic Corn: A Staple Food of Americans</b><p>Corn, also known as maize, is a food every US resident comes to love from childhood. The Native Americans have been eating this grain for millennia and the arrival of Spanish conquistadores spread this incredible plant all over the world. Today, corn is one of the most important foods in the world. Many programs aiming to fight world hunger rely on this particular plant due to the ease of its cultivation and high nutritional value.<p>Food To Live Organic Corn allows you to enjoy this delicious and healthy grain anytime. You can buy it in bulk and it will safely wait in your pantry until you feel like cooking some corn dish. This is a desire that one should encourage, as organic corn is a very good cooking ingredient. It contains quite a lot of nutrients as well as dietary fiber and protein.<p>Corn is used in many industries, including pharmaceuticals where corn starch is one of the most common additives. A single bushel of sweet corn can be turned into 32 pounds of starch or 33 pounds of sweetener. It can also be used to create 2.5 gallons of ethanol fuel.<p><b>Food To Live Organic Corn: Non-GMO and 100% Safe</b><p>Food To Live Organic Corn comes from farmers who use only the best agricultural practices to ensure the health of both their produce and the land. Our Certified Organic Corn is indeed organic. This means that it’s a non-GMO product that doesn’t contain any dangerous and toxic chemicals that might come from pesticides, nitrate fertilizers, and other chemicals used in some farms.<p>Most importantly, Food To Live Organic Corn is free from any dangerous genetic modifications. It’s a sad fact that the people of today have to be concerned about this matter in particular as the majority of corn in the US used to be GMO.
+Value: 160.0
+Unit: Ounce
+
+TRUE PRICE: 270.69
+PRED PRICE: 23.655967712402344
+ABS ERROR: 247.03403228759765
+
+CATALOG CONTENT:
+
+Item Name: Milwaukee Abrasive Cut-Off Machine 14 in. 15 Amp Corded Quick-Adjust Vise Clamp
+Product Description: Features:Powerful 15 Amp, 4.0 Maximum Horsepower Motor: Delivers maximum cutting performance in a wide variety of materialsLarge Cutting Capacity: Provides versatility for a wide range of cutting applications, up to 5" pipeDurable Light Weight Design: 40 lbs light weight design for portability without sacrificing durabilityOversized Wheel Guards: Provides added protection from debris45 Degree Miter Capacity With Adjustable Fence: Allows for quick and accurate miter cuts without flipping heavy materialLarge Spindle Lock Button: Provides quick and easy blade changes wearing glovesQuick Adjust Vise Clamp: Allows clamp to be adjusted quickly when cutting different material sizesAll Ball Bearing Construction: Delivers maximum durabilityIncludes:6177-20 Chop SawViseAbrasive Wheelhex wrench
+Value: 1.0
+Unit: Count
+
+TRUE PRICE: 241.09
+PRED PRICE: 18.53857421875
+ABS ERROR: 222.55142578125
+
+CATALOG CONTENT:
+
+Item Name: Folgers Liquid Coffee - Signature Blend, 2 boxes/2 L - Replaces Douwe Egberts Gourmet Blend
+Bullet Point 1: This sale is for two 2 L boxes of Folgers Liquid Coffee - Signature Blend
+Bullet Point 2: A full-bodied coffee with a fresh, balanced taste, and rather low acidity. The blend consists primarily of washed Arabica coffees from Central and South America with a balance of good quality Robusta.
+Bullet Point 3: This is the exact match to the Douwe Egberts Gourmet Blend. Different packaging and branding, but still the same great taste!
+Value: 135.2
+Unit: Fl. Oz
